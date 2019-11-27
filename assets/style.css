@@ -1,8 +1,6 @@
 header {
     width: 960px;
     margin: 10px auto;
-    border-color: #cccccc;
-    margin-bottom: 10px;
 }
 
 header h1 {
@@ -13,6 +11,7 @@ header h1 {
     font-size: 35px;
     float: left;
     width: 30%;
+    margin-bottom: 10px;
 }
 
 header a {
@@ -31,10 +30,30 @@ header a {
     margin-right: 30px;
 }
 
-.maincontent {
+#maincontent {
     clear: both;
+    background-color: #cccccc;
+    overflow: visible;
+}
+
+#mainsection {
+    width: 960px;
+    margin: 0 auto;
+    background-color: white;
+    border-style: solid;
+    border-color: red;
+    border-width: 2px;
+}
+
+h2 {
+    padding-top: 20px;
 }
 
 #biopic {
+    width: 200px;
+    float: left;
+}
+
+footer {
     clear: both;
 }
