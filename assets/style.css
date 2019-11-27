@@ -1,0 +1,19 @@
+header {
+    width: 960px;
+    margin: 10px auto;
+    border-color: #cccccc;
+}
+
+header h1 {
+    background-color: #4aaaa5;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    font-size: 35px;
+    float: left;
+    width: 30%;
+}
+
+header a {
+    float: right;
+}
