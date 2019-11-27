@@ -62,3 +62,16 @@ a, div, footer {
     display: block;
     clear: both;
 }
+
+footer {
+    clear: both;
+    text-align: center;
+    background-color: #666666;
+    padding-top: 20px;
+}
+
+#footer-text {
+    color: white;
+    bottom: 0;
+    padding-top: 20px;
+}
