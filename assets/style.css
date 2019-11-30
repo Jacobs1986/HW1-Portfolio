@@ -60,7 +60,7 @@ a, div, footer {
     width: 960px;
     margin: 0px auto;
     background-color: white;
-    height: 300px;
+    height: 400px;
 }
 
 #mainsection::after  {
