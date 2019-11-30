@@ -48,6 +48,7 @@ a, div, footer {
     clear: both;
     background-color: #cccccc;
     padding: 20px;
+    height: 500px;
 }
 
 #maincontent::after  {
@@ -56,12 +57,7 @@ a, div, footer {
     clear: both;
 }
 
-#mainsection {
-    width: 960px;
-    margin: 0px auto;
-    background-color: white;
-    height: 400px;
-}
+
 
 #mainsection::after  {
     content: "";
