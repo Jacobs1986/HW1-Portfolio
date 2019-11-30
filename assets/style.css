@@ -14,6 +14,12 @@ header h1 {
     width: 30%;
 }
 
+h2 {
+    padding: 20px;
+    color: #4aaaa5;
+    font-size: 25px;
+}
+
 header a {
     float: right;
     margin-top: 15px;
