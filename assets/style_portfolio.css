@@ -2,7 +2,7 @@
     width: 960px;
     margin: 0px auto;
     background-color: white;
-    height: 800px;
+    height: 890px;
 }
 
 .picture {
@@ -51,4 +51,9 @@ h3.photoid {
 #widget {
     left: 356px;
     bottom: 66px;
+}
+
+#rockpaper {
+    left:-308px;
+    top: 150px;
 }
