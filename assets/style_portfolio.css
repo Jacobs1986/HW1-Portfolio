@@ -1,0 +1,12 @@
+#items {
+    width: 960px;
+    margin: 0px auto;
+    background-color: white;
+    height: 450px;
+}
+
+#firstimage {
+    width: 33%;
+    float: left;
+    margin-left: 20px;
+}
