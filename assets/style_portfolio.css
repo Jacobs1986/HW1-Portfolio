@@ -13,6 +13,10 @@
     position: relative;
 }
 
+#secondphoto {
+    left: -280px;
+}
+
 h3.photoid {
     float: left;
     position: relative;
@@ -21,9 +25,16 @@ h3.photoid {
     text-align: center;
     color: white;
     padding: 20px 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
 }
 
 #hangman {
     left: -308px;
-    top: 160px;
+    top: 150px;
+}
+
+#RPGgame {
+    left: 356px;
+    bottom: 66px;
 }
