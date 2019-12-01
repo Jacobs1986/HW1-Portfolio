@@ -61,8 +61,6 @@ a, div, footer {
     clear: both;
 }
 
-
-
 #mainsection::after  {
     content: "";
     display: block;
