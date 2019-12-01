@@ -9,4 +9,21 @@
     width: 30%;
     margin-left: 20px;
     margin-right: 20px;
+    float: left;
+    position: relative;
+}
+
+h3.photoid {
+    float: left;
+    position: relative;
+    background-color: #4aaaa5;
+    width: 288px;
+    text-align: center;
+    color: white;
+    padding: 20px 0;
+}
+
+#hangman {
+    left: -308px;
+    top: 160px;
 }
