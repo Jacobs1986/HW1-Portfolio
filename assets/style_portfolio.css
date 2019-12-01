@@ -5,8 +5,8 @@
     height: 450px;
 }
 
-#firstimage {
-    width: 33%;
-    float: left;
+.picture {
+    width: 30%;
     margin-left: 20px;
+    margin-right: 20px;
 }
